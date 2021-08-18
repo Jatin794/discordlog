@@ -6,13 +6,13 @@ allPostsText: See all posts
 socialImage: ""
 ---
 
-An 11ty starter kit designed to help you add rich features to a site without a complicated build process.
+Retarded Blog. I'm yet to add content, but welcome - if you're seeing this, I'm mostly finished with the technical work and this site would be highly available, so go nuts.
 
 <ul>
     <li>
-        <a href="https://heroku.com/deploy?template=https://github.com/MadeByMike/keystone-jamstack-plus">Deploy Supermaya + Keystone</a> <small>(add user-generated content)</small>
+        <a href="https://heroku.com/deploy?template=https://github.com/MadeByMike/keystone-jamstack-plus">Why is this a thing?</a> <small>(hint, it's not what you think)</small>
     </li>
     <li>
-        <a href="https://app.netlify.com/start/deploy?repository=https://github.com/MadeByMike/supermaya">Deploy Supermaya to Netlify</a>
+        <a href="https://pentagon.cyou">Show me something cooler.</a> (Main page)
     </li>
 </ul>
